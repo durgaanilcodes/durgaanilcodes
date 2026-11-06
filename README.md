@@ -52,13 +52,15 @@
 ## 🚀 Featured Projects
 
 ### 1. Predictive Maintenance Using Contextual Data Fusion
+
 A machine learning project using the AI4I Predictive Maintenance dataset to explore equipment failure prediction using operational and sensor-related data.
 
-**Technologies:** Python, Pandas, Scikit-learn, SMOTE
+**Technologies:** Python, Pandas, Scikit-learn, SMOTE, LightGBM
 
 🔗 [GitHub Repository](https://github.com/durgaanilcodes/predictive-maintenance)
 
 ### 2. Reinforcement Learning-Based Dynamic Pricing
+
 An exploratory reinforcement learning project focused on adaptive pricing decisions using rewards and pricing-related state information.
 
 **Technologies:** Python, Reinforcement Learning
@@ -66,6 +68,7 @@ An exploratory reinforcement learning project focused on adaptive pricing decisi
 🔗 [GitHub Repository](https://github.com/durgaanilcodes/reinforcement-learning-dynamic-pricing)
 
 ### 3. Student Performance Prediction
+
 A machine learning project that predicts student academic performance using student-related data.
 
 **Technologies:** Python, Machine Learning
@@ -73,6 +76,7 @@ A machine learning project that predicts student academic performance using stud
 🔗 [GitHub Repository](https://github.com/durgaanilcodes/student-performance-prediction)
 
 ### 4. EmailFlow
+
 An accessible email application concept supporting native-language speech input and translation into English email content.
 
 **Technologies:** Python, NLP, Speech-to-Text
@@ -121,9 +125,9 @@ Kerala University | 2022–2025
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Durga Anil](https://www.linkedin.com/in/durga-anil-908b70333/)
-- 🌐 Portfolio: [AI/ML Portfolio](https://durgaanilcodes.github.io/durga-ai-ml-portfolio/)
-- 💻 GitHub: [durgaanilcodes](https://github.com/durgaanilcodes)
+- 💼 [LinkedIn](https://www.linkedin.com/in/durga-anil-908b70333/)
+- 🌐 [AI/ML Portfolio](https://durgaanilcodes.github.io/durga-ai-ml-portfolio/)
+- 💻 [GitHub](https://github.com/durgaanilcodes)
 - 📧 Email: careerinfodurga@gmail.com
 
 ---
